@@ -1,0 +1,7 @@
+- Call list of characters
+- Search a list of character moves TICK
+- CRUD notes
+- Create new user
+- Pull user data
+- Log in
+- Forgot your password
