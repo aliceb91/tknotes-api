@@ -1,4 +1,4 @@
-- Call list of characters
+- Call list of characters TICK
 - Search a list of character moves TICK
 - CRUD notes
 - Create new user
