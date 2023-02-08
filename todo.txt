@@ -1,7 +1,7 @@
 - Call list of characters TICK
 - Search a list of character moves TICK
-- CRUD notes
-- Create new user
-- Pull user data
-- Log in
-- Forgot your password
+- CRUD notes HAHA DUMB
+- Create new user HAHA DUMB
+- Pull user data HAHA DUMB
+- Log in HAHA DUMB
+- Forgot your password HAHA DUMB
