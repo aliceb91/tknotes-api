@@ -18,3 +18,4 @@ exports.default = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     console.log(charList);
     res.json(charList);
 });
+//# sourceMappingURL=get-characters.js.map

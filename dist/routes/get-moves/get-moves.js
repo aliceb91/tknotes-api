@@ -18,3 +18,4 @@ exports.default = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const moves = yield db_1.default.getCollection('frame-data').find({ characterName: character }).toArray();
     res.json(moves);
 });
+//# sourceMappingURL=get-moves.js.map

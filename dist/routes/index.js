@@ -11,3 +11,4 @@ const router = express_1.default.Router();
 exports.router = router;
 router.get('/moves/:character', get_moves_1.default);
 router.get('/charList', get_characters_1.default);
+//# sourceMappingURL=index.js.map

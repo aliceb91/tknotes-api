@@ -23,3 +23,4 @@ describe('getMoves', () => {
         expect(Array.isArray(response.body)).toEqual(true);
     }));
 });
+//# sourceMappingURL=get-moves.spec.js.map

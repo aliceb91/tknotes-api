@@ -10,3 +10,4 @@ exports.default = {
         };
     }
 };
+//# sourceMappingURL=database.js.map
