@@ -15,7 +15,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const db_1 = __importDefault(require("../../utils/db"));
 exports.default = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const character = req.params.character;
-    const moves = yield db_1.default.getCollection('frame-data').find({ characterName: character }).toArray();
+    const moves = yield db_1.default.getCollection('frame-data').find({ characterName: character }).sort({ _id: 1 }).toArray();
     res.json(moves);
 });
 //# sourceMappingURL=get-moves.js.map
